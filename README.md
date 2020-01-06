@@ -1,4 +1,4 @@
-# Horizon finding
+# Horizon Detection
 
 The underlying theme for the problem statement requires the use of Bayes Net and Viterbi Algorithm for finding the Horizon of sample images. An image, which can be seen as a matrix of rows and columns has an image gradient at each cell. Keeping this mind, we
 must estimate the most fitting row value for each column in the image pixels. The gradient data becomes our observed values which are the vectorized column values and
